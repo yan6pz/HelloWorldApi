@@ -1,0 +1,13 @@
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\HelloWorldCore.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\HelloWorldData.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\HelloWorldCore.pdb
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\HelloWorldCore.dll.config
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\HelloWorldData.pdb
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\HelloWorldData.dll.config
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\BusinessLayer\obj\Debug\BusinessLayer.pdb

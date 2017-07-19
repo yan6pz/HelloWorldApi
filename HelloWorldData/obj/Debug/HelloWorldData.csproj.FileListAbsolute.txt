@@ -1,0 +1,10 @@
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\bin\Debug\HelloWorldData.dll
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\bin\Debug\HelloWorldData.pdb
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\obj\Debug\HelloWorldData.csprojResolveAssemblyReference.cache
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\obj\Debug\HelloWorldData.dll
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\obj\Debug\HelloWorldData.pdb
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\bin\Debug\HelloWorldData.dll.config
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\bin\Debug\EntityFramework.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\bin\Debug\EntityFramework.xml
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldData\bin\Debug\EntityFramework.SqlServer.xml

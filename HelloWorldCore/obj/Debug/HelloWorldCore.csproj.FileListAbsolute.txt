@@ -1,0 +1,13 @@
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\HelloWorldCore.dll
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\HelloWorldCore.pdb
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\obj\Debug\HelloWorldCore.csprojResolveAssemblyReference.cache
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\obj\Debug\HelloWorldCore.dll
+c:\users\yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\obj\Debug\HelloWorldCore.pdb
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\HelloWorldCore.dll.config
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\EntityFramework.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\HelloWorldData.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\HelloWorldData.pdb
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\HelloWorldData.dll.config
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\EntityFramework.xml
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorldCore\bin\Debug\EntityFramework.SqlServer.xml

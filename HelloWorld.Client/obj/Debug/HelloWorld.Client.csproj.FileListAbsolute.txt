@@ -1,0 +1,6 @@
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorld.Client\bin\Debug\HelloWorld.Client.dll.config
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorld.Client\bin\Debug\HelloWorld.Client.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorld.Client\bin\Debug\HelloWorld.Client.pdb
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorld.Client\obj\Debug\HelloWorld.Client.dll
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorld.Client\obj\Debug\HelloWorld.Client.pdb
+C:\Users\Yanis\documents\visual studio 2017\Projects\HelloWorldApi\HelloWorld.Client\obj\Debug\HelloWorld.Client.csprojResolveAssemblyReference.cache
